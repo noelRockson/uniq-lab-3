@@ -7,9 +7,10 @@ L'application permet aux utilisateurs de créer facilement des quiz personnalis�
 ### App Walk-though
 Data erasure
 
-<img src="https://ephmedia.giphy.com/1f2d4f6e-b3ca-45a1-8932-733be011ee8c.gif" width=200><br>
+<img src="https://ephmedia.giphy.com/1f2d4f6e-b3ca-45a1-8932-733be011ee8c.gif" width=300><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+Add question in Database
+<img src="https://giphy.com/gifs/p1i5CZ3PcetEepj30N" width=200><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
