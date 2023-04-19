@@ -1,8 +1,8 @@
 ## uniq-lab-3
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+📝 `Quiz` Paste this template at the top of your existing `README.md` file from the last lab.
 
 ### App Description
-`TODO://` Add app description
+L'application permet aux utilisateurs de créer facilement des quiz personnalisées, avec la possibilité d'ajouter du contenu textuel pour illustrer les concepts clés. Une des principales caractéristiques de "Quiz" est la capacité de sauvegarder les données créées par l'utilisateur, de sorte que les questions et reponses restent disponibles même après la fermeture de l'application ou le redémarrage de l'appareil. Les utilisateurs peuvent créer plusieurs questions et les parcourir facilement pour étudier efficacement les différentes reponses.L'application offre également des fonctionnalités optionnelles, telles que la suppression de question, l'affichage des questions , la possibilité de modifier les questions existantes et de créer des flashcards avec plusieurs réponses possibles pour des questions à choix multiple.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
