@@ -5,9 +5,9 @@
 L'application permet aux utilisateurs de créer facilement des quiz personnalisées, avec la possibilité d'ajouter du contenu textuel pour illustrer les concepts clés. Une des principales caractéristiques de "Quiz" est la capacité de sauvegarder les données créées par l'utilisateur, de sorte que les questions et reponses restent disponibles même après la fermeture de l'application ou le redémarrage de l'appareil. Les utilisateurs peuvent créer plusieurs questions et les parcourir facilement pour étudier efficacement les différentes reponses.L'application offre également des fonctionnalités optionnelles, telles que la suppression de question, l'affichage des questions , la possibilité de modifier les questions existantes et de créer des flashcards avec plusieurs réponses possibles pour des questions à choix multiple.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+Data erasure
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://ephmedia.giphy.com/1f2d4f6e-b3ca-45a1-8932-733be011ee8c.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
