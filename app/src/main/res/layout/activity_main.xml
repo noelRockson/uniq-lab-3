@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blanc_gris"
+    tools:context=".MainActivity">
+
+
+    <TextView
+
+        android:id="@+id/text_question"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginRight="5dp"
+        android:background="@color/purple_700"
+        android:gravity="center"
+        android:text="Who is the 44th President of the United States?"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+
+        android:textSize="40sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_question"
+        android:layout_marginTop="58dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_answer1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:paddingBottom="4dp"
+            android:text="Barack Obama"
+            android:textAllCaps="false"
+            android:textSize="22dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_answer2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btn_answer1"
+            android:layout_margin="30dp"
+            android:padding="4dp"
+            android:text="Bill Clinton"
+            android:textAllCaps="false"
+            android:textSize="22dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_answer3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btn_answer2"
+            android:layout_margin="30dp"
+            android:padding="4dp"
+            android:text="George H. W. Bush"
+            android:textAllCaps="false"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:layout_marginTop="65dp"
+            android:background="?android:attr/listDivider"
+            android:backgroundTint="#8C7D7D" />
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ic_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="40dp"
+
+        android:layout_marginEnd="25dp"
+        android:scaleType="center"
+        android:src="@mipmap/next"
+        android:textAllCaps="false" />
+
+    <ImageView
+        android:id="@+id/ic_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="32dp"
+        app:srcCompat="@mipmap/ic_add2" />
+
+    <ImageView
+        android:id="@+id/ic_del"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="25dp"
+
+        android:layout_marginBottom="32dp"
+        app:srcCompat="@mipmap/del_btn" />
+
+
+</RelativeLayout>

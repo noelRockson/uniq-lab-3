@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blanc_gris"
+    tools:context=".AddActivity">
+
+    <EditText
+        android:id="@+id/add_question"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="20dp"
+        android:backgroundTint="@color/bleu_pal"
+        android:textColorHint="@color/blackPal"
+        android:textColor="@color/black"
+        android:hint="Enter your question!" />
+
+    <EditText
+        android:id="@+id/add_answer1"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/add_question"
+        android:layout_height="70dp"
+        android:layout_margin="20dp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/bleu_pal"
+        android:textColorHint="@color/blackPal"
+        android:hint="Enter your first answer!" />
+
+    <EditText
+        android:id="@+id/add_answer2"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/add_answer1"
+        android:layout_height="70dp"
+        android:layout_margin="20dp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/bleu_pal"
+        android:textColorHint="@color/blackPal"
+        android:hint="Enter your second answer!" />
+
+    <EditText
+        android:id="@+id/add_answer3"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/add_answer2"
+        android:layout_height="70dp"
+        android:layout_margin="20dp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/bleu_pal"
+        android:textColorHint="@color/blackPal"
+        android:hint="Enter your third answer!" />
+
+
+    <ImageView
+        android:id="@+id/ic_cancel_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="30dp"
+        app:srcCompat="@mipmap/ic_cancel2" />
+
+    <ImageView
+        android:id="@+id/ic_edit_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-26dp"
+        android:layout_marginTop="-360dp"
+        android:layout_marginEnd="341dp"
+        android:layout_marginBottom="30dp"
+        app:srcCompat="@mipmap/ic_save2" />
+</RelativeLayout>
