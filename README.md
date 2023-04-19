@@ -10,7 +10,7 @@ Data erasure
 <img src="https://ephmedia.giphy.com/1f2d4f6e-b3ca-45a1-8932-733be011ee8c.gif" width=200><br>
 ### App Walk-though
 Add question in Database
-<img src="https://photos.app.goo.gl/qPtNT4KERr9CXA249" width=200><br>
+<img src="https://giphy.com/gifs/p1i5CZ3PcetEepj30N" width=200><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
