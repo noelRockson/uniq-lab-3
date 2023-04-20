@@ -11,7 +11,7 @@ Data erasure
 ### App Walk-though
 Add question in Database
 
-<img src="https://github.com/noelRockson/uniq-lab-3/blob/44e31ab51346e08e9940e0e37f75f08f161694f1/screen-20230419-143304~3.mp4" width=200><br>
+<img src="https://user-images.githubusercontent.com/128053435/233236199-7bebdf63-cd4a-4274-8e25-2db4cfc3f0a8.mp4" width=200><br>
 
 ### App Walk-though
 List questions in Database
