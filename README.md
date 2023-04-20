@@ -12,7 +12,7 @@ Data erasure
 ### App Walk-though
 Add question in Database
 
-<img src="https://www.veed.io/view/2c326eb5-1474-4684-92f9-871a56e9debf" width=200><br>
+<img src="https://www.veed.io/view/2c326eb5-1474-4684-92f9-871a56e9debf?panel=share" width=200><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
