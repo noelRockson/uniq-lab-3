@@ -7,12 +7,12 @@ L'application permet aux utilisateurs de cr√©er facilement des quiz personnalis√
 ### App Walk-though
 Data erasure
 
-<img src="https://ephmedia.giphy.com/1f2d4f6e-b3ca-45a1-8932-733be011ee8c.gif" width=700><br>
+<img src="https://ephmedia.giphy.com/1f2d4f6e-b3ca-45a1-8932-733be011ee8c.gif" width=200><br>
 
 ### App Walk-though
 Add question in Database
 
-<img src="https://makeagif.com/i/GGtn1m" width=700><br>
+<img src="https://makeagif.com/i/GGtn1m" width=200><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
