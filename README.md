@@ -12,7 +12,7 @@ Data erasure
 ### App Walk-though
 Add question in Database
 
-<img src="<a href="/gif/add-questions-GGtn1m" title="add questions"><img src="https://i.makeagif.com/media/4-20-2023/GGtn1m.gif" alt="add questions"></a><div style="font-size:11px;">make <a href="/" title="make a gif">movie GIFs</a> like this at MakeaGif</div>" width=200><br>
+<img src="https://www.veed.io/view/2c326eb5-1474-4684-92f9-871a56e9debf" width=200><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
