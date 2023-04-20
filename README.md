@@ -12,7 +12,7 @@ Data erasure
 ### App Walk-though
 Add question in Database
 
-<img src="https://www.canva.com/design/DAFgl5owoY4/_RfQj6728iJGnLwGNYoViw/watch?utm_content=DAFgl5owoY4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" width=700><br>
+<img src="![add questions](https://i.makeagif.com/media/4-20-2023/GGtn1m.gif)" width=700><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
