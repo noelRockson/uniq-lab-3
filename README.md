@@ -7,7 +7,7 @@ L'application permet aux utilisateurs de cr√©er facilement des quiz personnalis√
 ### App Walk-though
 Data erasure
 
-<img src="https://giphy.com/gifs/KyblFSnxcYpqyDhvwg" width=200><br>
+<img src="https://drive.google.com/file/d/1abjCvDO5kgn-rT85opVPggQSj4uumlha/view?usp=drivesdk" width=200><br>
 
 ### App Walk-though
 Add question in Database
