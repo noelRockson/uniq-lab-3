@@ -17,6 +17,7 @@ Add question in Database
 List questions in Database
 
 <img src="https://user-images.githubusercontent.com/128053435/233235913-43beee4a-f354-4e9b-b7a5-3fd07766dd97.mp4" width=200><br>
+
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
 - [X] User can create muliple cards and browse through all created cards
